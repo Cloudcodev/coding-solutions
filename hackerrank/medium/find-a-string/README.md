@@ -60,7 +60,7 @@ Here, the range loops over $0$ to $4$. $5$ is excluded.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-12T12:45:10.725Z  
+**Submitted:** 2026-08-12T12:45:13.921Z  
 
 ```py
 def count_substring(string, sub_string):
